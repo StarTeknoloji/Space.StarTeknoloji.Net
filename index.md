@@ -22,9 +22,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact          
 ## WEB SİTELERİMİZ
-WWW.CODESEXE.COM
-WWW.STARTEKNOLOG.COM
-WWW.STARCOMPUTER.SPACE
+# codesexe.com
+# starcomputer.space
+# starteknolog.com
 ### ercetinguler@starteknoloji.space  
 ### ercetinguler@codesexe.com
 ### user@starcomputer.space
