@@ -12,7 +12,7 @@
 ### PROJE
 ### Open Source Project www.yıldızhub.com 
 ### will start with star name
-### will continue as star lab and star host
+### To be added as www.yıldızlab.com and www.yıldızhost.com
 
 ```   
 
