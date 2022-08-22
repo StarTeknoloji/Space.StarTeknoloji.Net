@@ -11,7 +11,7 @@
   
 ### Milky Way Open Source Project
 ### Open Source Project www.yıldızhub.com 
-### will start with yıldız name
+### open source base name to start with yıldız name
 ### To be added as www.yıldızlab.com and www.yıldızhost.com
 
 ```   
