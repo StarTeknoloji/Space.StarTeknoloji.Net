@@ -6,11 +6,8 @@
 #       
 ## 
 ###   Sayfamız düzenlenmekte.
-- DİĞER WEB SİTELERİ  
-
-1 . codesexe.com
-2. starteknolog.com
-3. starcomputer.space
+-
+1.  
   
 **PROJE **
 ``` AÇIK KAYNAK BAŞLATMAK
@@ -23,9 +20,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact          
 ## WEB SİTELERİMİZ
-# codesexe.com
-# starcomputer.space
-# starteknolog.com
+#### codesexe.com
+#### starcomputer.space
+#### starteknolog.com
 ### ercetinguler@starteknoloji.space  
 ### ercetinguler@codesexe.com
 ### user@starcomputer.space
