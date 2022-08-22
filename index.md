@@ -6,10 +6,11 @@
 #       
 ## 
 ###   Sayfamız düzenlenmekte.
-- Bulleted      
+- DİĞER WEB SİTELERİ  
 
-1.
-2.
+1 . codesexe.com
+2. starteknolog.com
+3. starcomputer.space
   
 **PROJE **
 ``` AÇIK KAYNAK BAŞLATMAK
