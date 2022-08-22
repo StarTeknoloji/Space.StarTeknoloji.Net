@@ -9,7 +9,7 @@
 -
 1.  
   
-### PROJE
+### Milky Way Open Source Project
 ### Open Source Project www.yıldızhub.com 
 ### will start with star name
 ### To be added as www.yıldızlab.com and www.yıldızhost.com
