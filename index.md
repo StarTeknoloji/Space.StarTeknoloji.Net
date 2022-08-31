@@ -2,22 +2,20 @@
 
 #HOŞGELDİNİZ.....   
 ## StarTeknoloji.space  
-###  [    Computer Information Services ]
-### Computer and Peripherals, Website Setup, Enterprise Application Software and Management
-###
+  ## [   Computer Information Service ]   Computer and Peripherals, Website Setup, Enterprise Application Software and    Management 
+
     
-#       
-## 
-###   Sayfamız düzenlenmekte.
+#    
+#   Sayfamız düzenlenmekte.
 -
-1.  
+1.      
   
 ### Milky Way Open Source Project
 ### Open Source Project www.yıldızhub.com 
 ### Open Source Base Name to Start with a yıldız name
 ### To be added as www.yıldızlab.com and www.yıldızhost.com
 
-```   Computer, Phone, Tablet, Technical Service, Operating System Installation, Application Installation, Official Printout, Photocopy, Pvc Coating A4, Spiral Notebook, Second Hand Trading Trasactions are Applie 
+```   Computer, Phone, Tablet, Technical Service, Operating System Installation, Application Installation, Official Printout, Photocopy, Pvc Coating A4, Spiral Notebook, Second Hand Trading Trasactions are Applie            
 
     
 
