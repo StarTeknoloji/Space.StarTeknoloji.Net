@@ -2,8 +2,10 @@
 
 #HOŞGELDİNİZ.....   
 ## StarTeknoloji.space  
-###     
-
+###  [    Computer Information Services ]
+### Computer and Peripherals, Website Setup, Enterprise Application Software and Management
+###
+    
 #       
 ## 
 ###   Sayfamız düzenlenmekte.
@@ -17,7 +19,13 @@
 
 ```   
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-synt
+##[Computer Information Service]    (  Computer, Phone, Tablet, Technical Service, Operating System Installation, Application Installation, Official Printout, Photocopy, Pvc Coating A4, Spiral Notebook, Second Hand Trading Trasactions are Applie)
+
+    
+
+
+[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-synt                
+
 
               
 #### Our Sites 
