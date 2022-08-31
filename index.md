@@ -17,9 +17,7 @@
 ### Open Source Base Name to Start with a yıldız name
 ### To be added as www.yıldızlab.com and www.yıldızhost.com
 
-```   
-
-##[Computer Information Service]    (  Computer, Phone, Tablet, Technical Service, Operating System Installation, Application Installation, Official Printout, Photocopy, Pvc Coating A4, Spiral Notebook, Second Hand Trading Trasactions are Applie)
+```   Computer, Phone, Tablet, Technical Service, Operating System Installation, Application Installation, Official Printout, Photocopy, Pvc Coating A4, Spiral Notebook, Second Hand Trading Trasactions are Applie 
 
     
 
