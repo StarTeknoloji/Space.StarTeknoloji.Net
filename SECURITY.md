@@ -13,5 +13,5 @@ currently being supported with security updates.
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerabil ##
-https://bounty.github.com/
+https://ercetinguler@codesexe.com
 öneri: Yeni başlayan kullanıcıların ilk yapıçağı Dependabot uyarılarını etkinleştirmek.
