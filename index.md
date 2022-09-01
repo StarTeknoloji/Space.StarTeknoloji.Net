@@ -15,11 +15,11 @@
 
 
 - Missions
-1.Computer, Phone, Tablet, Technical Service, Operating System Installation, Application Installation, Backup and Recovery.
-2.Official Printout, Photocopy, PVC Coating A4, Spiral Notebook, Second-Hand Trading Transactions are Applied.
-3.Security Camera, Internet and Cable Connections.  
-4.We have Motherboard Repair, Eprom, Soldering, Warranty and Outsourcing.  
-5.10:00 ve 19:00 Açık
+1. Computer, Phone, Tablet, Technical Service, Operating System Installation, Application Installation, Backup and Recovery.Official Printout, Photocopy, PVC Coating
+2. A4, Spiral Notebook, Second-Hand Trading Transactions are Applied.
+3. Security Camera, Internet and Cable Connections.
+4. We have Motherboard Repair, Eprom, Soldering, Warranty and Outsourcing.
+5. 10:00 ve 19:00 Açık
 
 ## Our Project to Be Launched on GitHub On Metadata                  
 - Milky Way Open Source Projet
