@@ -1,45 +1,41 @@
 ![5077109](https://user-images.githubusercontent.com/93947784/185945676-6079821b-9ee0-4fd6-a3bb-6c91a0a79e6e.png)
-
 # Welcome 
 # StarTeknoloji.space
 ## Computer  İnformation Services 
 ###   Computer and Peripherals, Network Setup, Website Setup, Server Setup, Enterprise Application Management and Release Development
 ### Information Technology Consulting, Microsoft MCP Continuity
 
+
+#   Sayfamız düzenlenmekte
+
+
+
+- Missions
+1.Computer, Phone, Tablet, Technical Service, Operating System Installation, Application Installation, Backup and Recovery. 
+2.Official Printout, Photocopy, PVC Coating A4, Spiral Notebook, Second-Hand Trading Transactions are Applied.
+3.Security Camera, Internet and Cable Connections.  
+4.We have Motherbo  ard Repair, Eprom, Soldering, Warranty and Outsourcing.   
+##                   Our Project to Be Launched on GitHub On Metadata                               
+## Milky Way Ope##n Source Project
+## Open Source Project www.yıldızhub.com 
+## Open Source Base Name to Start with a yıldız name
+## To be added as www.yıldızlab.com and www.yıldızhost.com
   
-  
 
 
-#    
-#   Sayfamız düzenlenmekte.
--
-1.      
-        
-```Computer, Phone, Tablet, Technical Service, Operating System Installation, Application Installation, Backup and Recovery, Official Printout, Photocopy, PVC Coating A4, Spiral Notebook, Second-Hand Trading Transactions are Applied.        
-Security Camera, Internet and Cable Connections.
-We have Motherboard Repair, Eprom, Soldering, Warranty and Outsourcing. 
+[Basic writi  ng and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-synt                   
 
 
 
-# Our Project to Be Launched on GitHub On Metadata
-# Milky Way Open Source Project
-# Open Source Project www.yıldızhub.com 
-# Open Source Base Name to Start with a yıldız name
-# To be added as www.yıldızlab.com and www.yıldızhost.com
 
 
 
-[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-synt                
 
-
-              
-#### Our Sites 
-#### codesexe.com     
-#### starcomputer.space 
-#### starteknolog.com
-
-
-### Support or Contact
+## Our Sites 
+### codesexe.com     
+### starcomputer.space 
+### starteknolog.com
+## Support or Contact
 ### ercetinguler@starteknoloji.space  
 ### ercetinguler@codesexe.com
 ### user@starcomputer.space
