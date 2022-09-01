@@ -11,22 +11,19 @@
 
 
 - Missions
+
 1.Computer, Phone, Tablet, Technical Service, Operating System Installation, Application Installation, Backup and Recovery. 
 2.Official Printout, Photocopy, PVC Coating A4, Spiral Notebook, Second-Hand Trading Transactions are Applied.
 3.Security Camera, Internet and Cable Connections.  
-4.We have Motherbo  ard Repair, Eprom, Soldering, Warranty and Outsourcing.   
-##                   Our Project to Be Launched on GitHub On Metadata                               
-## Milky Way Ope##n Source Project
+4.We have Motherbo  ard Repair, Eprom, Soldering, Warranty and Outsourcing.  
+
+## Our Project to Be Launched on GitHub On Metadata                               
+## Milky Way Open Source Projet
 ## Open Source Project www.yıldızhub.com 
 ## Open Source Base Name to Start with a yıldız name
 ## To be added as www.yıldızlab.com and www.yıldızhost.com
   
-
-
 [Basic writi  ng and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-synt                   
-
-
-
 
 
 
