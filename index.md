@@ -33,7 +33,10 @@
 - starcomputer.space 
 - starteknolog.com
 - yıldızteknoloj.com
-- yıldız.codes (Projet)
+- yıldız.codes (Projet) 
+- yıldızhub.com (Projet)
+- yıldızlab.com (Projet)
+- yıldızhost.com (projet)
 ## Support or Contact
 - ercetinguler@starteknoloji.space    
 - ercetinguler@codesexe.com
