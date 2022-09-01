@@ -1,4 +1,4 @@
-# @starteknloji !
+  # @starteknoloji ! 
 ![5077109](https://user-images.githubusercontent.com/93947784/185945676-6079821b-9ee0-4fd6-a3bb-6c91a0a79e6e.png)
 # StarTeknoloji.space
 ## Computer İnformation Services     
