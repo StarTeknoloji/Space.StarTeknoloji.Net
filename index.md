@@ -32,7 +32,7 @@
 - codesexe.com     
 - starcomputer.space 
 - starteknolog.com
-- yıldızteknoloj.com
+- yıldızteknoloji.com
 - yıldız.codes (Projet) 
 - yıldızhub.com (Projet)
 - yıldızlab.com (Projet)
