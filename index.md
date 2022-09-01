@@ -13,11 +13,11 @@
 #   Sayfamız düzenlenmekte
 
 
-
-- Missions
-1. Computer, Phone, Tablet, Technical Service, Operating System Installation, Application Installation, Backup and Recovery.Official Printout, Photocopy, PVC Coating
-2. A4, Spiral Notebook, Second-Hand Trading Transactions are Applied.
-3. Security Camera, Internet and Cable Connections.
+    
+- Missions    
+1. Computer, Phone, Tablet, Technical Service, Operating System Installation, Application Installation, Backup and Recovery.Official Printout, Photocopy, PVC Coating. 
+2. Security Camera ve Web Cablo  Connection.
+3. A4, Spiral Notebook, Second-Hand Trading.
 4. We have Motherboard Repair, Eprom, Soldering, Warranty and Outsourcing.
 5. 10:00 ve 19:00 Açık
 
