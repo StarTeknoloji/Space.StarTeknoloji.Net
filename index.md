@@ -1,5 +1,4 @@
 # @starteknoloji  !!
-![5077109](https://user-images.githubusercontent.com/93947784/185945676-6079821b-9ee0-4fd6-a3bb-6c91a0a79e6e.png) 
 ![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml)
 [![SLSA generic generator](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/generator-generic-ossf-slsa3-publish.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/generator-generic-ossf-slsa3-publish.yml)
@@ -56,9 +55,11 @@
 - +90 0288 318 33 40 
 - Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE
            
-Can You Help Me To Improve This Page!!!! Links Above
+## Can You Help Me To Improve This Page!!!! Links Above
 <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
+
+## This is a file with a top-level HTML heading
 <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
-This is a file with a top-level HTML heading
+![5077109](https://user-images.githubusercontent.com/93947784/185945676-6079821b-9ee0-4fd6-a3bb-6c91a0a79e6e.png) 
 
