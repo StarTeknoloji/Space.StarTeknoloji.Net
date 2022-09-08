@@ -21,4 +21,7 @@ As the person uses this application, the classification of the application will 
 Location The person is specific
 Fixed and On-Demand Workflows,
 
+<h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
+
+This is a file with a top-level HTML heading
 
